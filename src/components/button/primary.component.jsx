@@ -1,3 +1,5 @@
+import React from 'react';
+
 const PrimaryButton = () => {
   return (
     <button style={{width: 100, height: 36}}>PrimaryButton</button>
